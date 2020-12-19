@@ -58,7 +58,7 @@ analysis needs to be done on a larger sample size. Based on the team’s analysi
 should set a goal of no more than $15000 and she would be more successful if her 
 campaign target was below $5,000.
 
-# Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
 
 As with any analysis this project was beholden to the data that was present.
 Key items that were missing from the data included, 1) The city in which the play would 
